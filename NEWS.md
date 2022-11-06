@@ -1,4 +1,18 @@
-# DiagrammeR 1.0.6.9000 (Unreleased)
+# DiagrammeR (development version)
+
+# DiagrammeR 1.0.9
+
+* More safely check inputs to `grViz()` and `mermaid()`
+
+# DiagrammeR 1.0.8
+
+* Reduce minimum R version requirement.
+
+# DiagrammeR 1.0.7
+
+* Fix malformed CSS selector in `htmlwidgets/grViz.js`
+
+* Only call `replace_na(replace = "")` on character columns
 
 * Added the `envir` argument to the `grViz` and `replace_in_spec` functions.
 
